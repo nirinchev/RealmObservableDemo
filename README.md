@@ -5,4 +5,4 @@ The app itself is a very simplistic contacts application that allows you to crea
 
 If you have any questions or problems with running the sample, don't hesitate to open an issue.
 
-Check the [official website](https://realm.io/docs/xamarin/latest/) for more info on Realm or open an issue if you hav.
+Check the [official website](https://realm.io/docs/xamarin/latest/) for more info on Realm or open an issue if you have problems getting started.
